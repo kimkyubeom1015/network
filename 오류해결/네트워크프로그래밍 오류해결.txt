@@ -1,0 +1,6 @@
+네트워크프로그래밍 오류해결
+
+1. Common.h  파일위치 소스파일위치랑 같은곳에 두기
+2.한글안될때 메인 아래에 SetConsoleOutputCP(CP_UTF8);
+                                   SetCons oleCP(CP_UTF8); 추가하고 프로젝트우클릭->속성 → C/C++ → 명령줄에 
+/utf-8추가
