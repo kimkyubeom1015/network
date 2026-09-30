@@ -2,4 +2,4 @@ ipconfig = 내ip주소 보는법 10.21.92.207
 기본 게이트웨이 10.21.92.1
 필요하면(ipconfig 입력 후 ip address가 보이지 않을 경우),
 수동으로 ip address 변경 -> window키+R -> ncpa.cpl
-실험 끝날 때  window키+R  -> ncpa.cpl 후에 자동 ip address로 변경
+실험 끝날 때  window키+R  -> ncpa.cpl 후에 "자동으로 ip address 받기" 변경
