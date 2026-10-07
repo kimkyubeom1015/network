@@ -4,3 +4,4 @@
 2.한글안될때 메인 아래에 SetConsoleOutputCP(CP_UTF8);
                                    SetCons oleCP(CP_UTF8); 추가하고 프로젝트우클릭->속성 → C/C++ → 명령줄에 
 /utf-8추가
+netstat -a -n tcp findstr 9000
